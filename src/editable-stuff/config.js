@@ -52,7 +52,7 @@ const about = {
   imageSize: 375,
   message:
     "Mi nombre es Damian Sola Zambrano, me gradué en el instituto Henry de deasarrollador FullStack. Ahí adquirí habildidades como adaptabilidad, trabajo en equipo, resolución de problemas e inteligencia emocional. Ademas soy paciente, extrovertido y autodidacta ",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: "file:///C:/Users/damia/Downloads/cvDamian.pdf",
 };
 
 // PROJECTS SECTION
