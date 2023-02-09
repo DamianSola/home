@@ -50,8 +50,7 @@ const about = {
   heading: "Sobre mi",
   imageLink: require("./profile-pic.png"),
   imageSize: 375,
-  message:
-    "Mi nombre es Damian Sola Zambrano, me gradué en el instituto Henry de deasarrollador FullStack. Ahí adquirí habildidades como adaptabilidad, trabajo en equipo, resolución de problemas e inteligencia emocional. Ademas soy paciente, extrovertido y autodidacta ",
+  message:"Mi nombre es Damian Sola Zambrano, me gradué en el instituto Henry de desarrollador FullStack. Ahí adquirí habildidades como adaptabilidad, trabajo en equipo, resolución de problemas e inteligencia emocional. Ademas soy paciente, extrovertido y autodidacta ",
   resume: "file:///C:/Users/damia/Downloads/cvDamian.pdf",
 };
 
